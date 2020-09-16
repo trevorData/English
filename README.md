@@ -1,6 +1,6 @@
 # English
 
-#[Main Plot](https://i.imgur.com/BMdKUQJ.png)
+# [Main Plot](https://i.imgur.com/BMdKUQJ.png)
 
 ---
 
@@ -14,6 +14,6 @@ Source of data: https://en.wikipedia.org/wiki/List_of_countries_by_English-speak
 
 Made with R using the following packages:
 
-tidyr
-ggplot2
-ggrepel
+tidyr  
+ggplot2  
+ggrepel  
